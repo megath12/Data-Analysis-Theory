@@ -1,0 +1,8 @@
+# create database cacao;
+#table data import wizard
+#ALTER TABLE flavors_of_cacao  
+#ADD COLUMN ID INT AUTO_INCREMENT PRIMARY KEY;
+
+select *
+from flavors_of_cacao 
+
